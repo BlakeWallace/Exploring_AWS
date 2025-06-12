@@ -69,13 +69,13 @@ Work through the book Mastering Machine Learning on AWS.
         1. [datacleaning.py](https://github.com/BlakeWallace/Exploring_AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/datacleaning.py)  
         1. [readtextfunctions.py](https://github.com/BlakeWallace/Exploring_AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/readtextfunctions.py)  
     1. Data Cleaning  
-        1. [sentence_tokenization.ipynb](https://github.com/BlakeWallace/Exploring_AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/sentence_tokenization.ipynb)  
-        1. [pos_tagging.ipynb](https://github.com/BlakeWallace/Exploring_AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/pos_tagging.ipynb)  
+        1. [sentence_tokenization.ipynb](https://nbviewer.org/github/BlakeWallace/Exploring_AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/sentence_tokenization.ipynb)  
+        1. [pos_tagging.ipynb](https://nbviewer.org/github/BlakeWallace/Exploring_AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/pos_tagging.ipynb)  
     1. Main Work  
-        1. [document_classification.ipynb](https://github.com/BlakeWallace/Exploring_AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/document_classification.ipynb)  
+        1. [document_classification.ipynb](https://nbviewer.org/github/BlakeWallace/Exploring_AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/document_classification.ipynb)  
     1. Side Work
-        1. [Classification_and_the_NB_Algorithm.ipynb](https://github.com/BlakeWallace/Exploring_AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/Classification_and_the_NB_Algorithm.ipynb)  
-        1. [collect_text_data.ipynb](https://github.com/BlakeWallace/Exploring_AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/collect_text_data.ipynb)  
+        1. [Classification_and_the_NB_Algorithm.ipynb](https://nbviewer.org/github/BlakeWallace/Exploring_AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/Classification_and_the_NB_Algorithm.ipynb)  
+        1. [collect_text_data.ipynb](https://nbviewer.org/github/BlakeWallace/Exploring_AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/collect_text_data.ipynb)  
 1. [.gitignore](https://github.com/BlakeWallace/Exploring_AWS/blob/master/.gitignore)  
 1. [README.md](https://github.com/BlakeWallace/Exploring_AWS/blob/master/README.md)  
 1. [aws_ml_setup.ipynb](https://github.com/BlakeWallace/Exploring_AWS/blob/master/aws_ml_setup.ipynb)  
