@@ -1,0 +1,14 @@
+**/.DS_Store
+**/.ipynb_checkpoints
+
+# ignore the following files 
+**/creds.py
+**/test_instance_key1.pem
+**/test_instance_key2.pem
+**/__pycache__
+**/reddit_creds.json
+**/aws_creds.json
+**/data/kaggle
+**/data/reuters21578
+**/data/reuters21578.tar.gz
+
