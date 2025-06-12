@@ -58,28 +58,28 @@ Work through the book Mastering Machine Learning on AWS.
 <a id='repo-content'></a>
 
 ## Contents in Project Repo
-1. [Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes](https://github.com/BlakeWallace/AWS/tree/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes)  
-    1. [Data](https://github.com/BlakeWallace/AWS/tree/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/data)  
-        1. [location_of_data.md](https://github.com/BlakeWallace/AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/data/location_of_data.md) 
-        1. [democrats.csv](https://github.com/BlakeWallace/AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/data/democrats.csv)
-        1. [republicans.csv](https://github.com/BlakeWallace/AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/data/republicans.csv)
-        1. [text_data.csv](https://github.com/BlakeWallace/AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/data/text_data.csv)
+1. [Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes](https://github.com/BlakeWallace/Exploring_AWS/tree/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes)  
+    1. [Data](https://github.com/BlakeWallace/Exploring_AWS/tree/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/data)  
+        1. [location_of_data.md](https://github.com/BlakeWallace/Exploring_AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/data/location_of_data.md) 
+        1. [democrats.csv](https://github.com/BlakeWallace/Exploring_AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/data/democrats.csv)
+        1. [republicans.csv](https://github.com/BlakeWallace/Exploring_AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/data/republicans.csv)
+        1. [text_data.csv](https://github.com/BlakeWallace/Exploring_AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/data/text_data.csv)
     1. Functions Used Throughout  
-        1. [bnaivebayes.py](https://github.com/BlakeWallace/AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/bnaivebayes.py)  
-        1. [datacleaning.py](https://github.com/BlakeWallace/AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/datacleaning.py)  
-        1. [readtextfunctions.py](https://github.com/BlakeWallace/AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/readtextfunctions.py)  
+        1. [bnaivebayes.py](https://github.com/BlakeWallace/Exploring_AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/bnaivebayes.py)  
+        1. [datacleaning.py](https://github.com/BlakeWallace/Exploring_AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/datacleaning.py)  
+        1. [readtextfunctions.py](https://github.com/BlakeWallace/Exploring_AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/readtextfunctions.py)  
     1. Data Cleaning  
-        1. [sentence_tokenization.ipynb](https://github.com/BlakeWallace/AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/sentence_tokenization.ipynb)  
-        1. [pos_tagging.ipynb](https://github.com/BlakeWallace/AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/pos_tagging.ipynb)  
+        1. [sentence_tokenization.ipynb](https://github.com/BlakeWallace/Exploring_AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/sentence_tokenization.ipynb)  
+        1. [pos_tagging.ipynb](https://github.com/BlakeWallace/Exploring_AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/pos_tagging.ipynb)  
     1. Main Work  
-        1. [document_classification.ipynb](https://github.com/BlakeWallace/AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/document_classification.ipynb)  
+        1. [document_classification.ipynb](https://github.com/BlakeWallace/Exploring_AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/document_classification.ipynb)  
     1. Side Work
-        1. [Classification_and_the_NB_Algorithm.ipynb](https://github.com/BlakeWallace/AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/Classification_and_the_NB_Algorithm.ipynb)  
-        1. [collect_text_data.ipynb](https://github.com/BlakeWallace/AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/collect_text_data.ipynb)  
-1. [.gitignore](https://github.com/BlakeWallace/AWS/blob/master/.gitignore)  
-1. [README.md](https://github.com/BlakeWallace/AWS/blob/master/README.md)  
-1. [aws_ml_setup.ipynb](https://github.com/BlakeWallace/AWS/blob/master/aws_ml_setup.ipynb)  
-1. [order_of_building_aws_account.md](https://github.com/BlakeWallace/AWS/blob/master/order_of_building_aws_account.md)  
+        1. [Classification_and_the_NB_Algorithm.ipynb](https://github.com/BlakeWallace/Exploring_AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/Classification_and_the_NB_Algorithm.ipynb)  
+        1. [collect_text_data.ipynb](https://github.com/BlakeWallace/Exploring_AWS/blob/master/Ch2_Classifying_Twitter_Feeds_with_Naive_Bayes/collect_text_data.ipynb)  
+1. [.gitignore](https://github.com/BlakeWallace/Exploring_AWS/blob/master/.gitignore)  
+1. [README.md](https://github.com/BlakeWallace/Exploring_AWS/blob/master/README.md)  
+1. [aws_ml_setup.ipynb](https://github.com/BlakeWallace/Exploring_AWS/blob/master/aws_ml_setup.ipynb)  
+1. [order_of_building_aws_account.md](https://github.com/BlakeWallace/Exploring_AWS/blob/master/order_of_building_aws_account.md)  
 ---
 
 <a id='data-dictionary'></a>
@@ -91,7 +91,7 @@ A few notes regarding the primary dataset used for modeling:
 1. The primary dataset for analysis to answer the data science questions is labeled [data_for_analysis](https://github.com/BlakeWallace/Project_Pigskin/blob/master/Data/data_for_analysis.csv).  
 1. When reading through a notebook, any data that is put into this dataset is labeled `'stuff_to_keep'`.  Once this point is reached inside a notebook, the data that follows is munged, cleaned, engineered, or explored to be included in the primary dataset for analysis.  In all cases the data is later renamed to be included to the [data_for_analysis](https://github.com/BlakeWallace/Project_Pigskin/blob/master/Data/data_for_analysis.csv) dataset.
 
-**Our primary [data_for_analysis](https://github.com/BlakeWallace/AWS/blob/master/Data/data_for_analysis.csv) will be displayed in the following table.  At the moment, this is a template data table that is not currently holding any relevant data for this project.**
+**Our primary [data_for_analysis](https://github.com/BlakeWallace/Exploring_AWS/blob/master/Data/data_for_analysis.csv) will be displayed in the following table.  At the moment, this is a template data table that is not currently holding any relevant data for this project.**
 
 <div align="left"> 
     
